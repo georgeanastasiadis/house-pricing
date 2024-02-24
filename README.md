@@ -20,7 +20,7 @@ The models used for this project are:
 - Random Forest Regression
 - XGBoost
   
-To evaluate the model results I used **Mean Absolute Error and Mean Squared Error.**
+To evaluate the model results I used **Mean Absolute Error and Mean Squared Error.** . Because XGBoost dummy model worked the best, to improve further the model I used **RandomisedSearchCV** to tune the hyperparameters.
 
 ## Feature Selection 
 
