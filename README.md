@@ -38,5 +38,5 @@ The table below shows the results for each regressor when it comes to mae and ms
   <img width="500" src="results.PNG" alt="Alt text" title="Classes Distribution">
 </p>
 
-XGBoost outperformed the other classifiers in all metrics.
+XGBoost outperformed the other regression models in all metrics.
 
